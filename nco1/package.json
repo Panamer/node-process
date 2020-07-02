@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "commander": "^5.1.0",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.4.0",
+    "handlebars": "^4.7.6",
+    "log": "^6.0.0",
+    "open": "^7.0.4",
+    "ora": "^4.0.4"
+  },
+  "name": "node-process",
+  "description": "",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Panamer/node-process.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Panamer/node-process/issues"
+  },
+  "homepage": "https://github.com/Panamer/node-process#readme",
+  "bin": {
+    "gyw": "./bin/gyw.js"
+  }
+}
